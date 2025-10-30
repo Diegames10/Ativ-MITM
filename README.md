@@ -65,3 +65,28 @@ No seminário, foi usado para capturar os prints das etapas práticas do MITM.
 | **Lightshot** | Captura de tela       | Registrar prints e evidências visuais         |
 
 ---
+
+
+## 🔹 Npcap
+
+**O que é:**
+Npcap é o **driver de captura de pacotes** usado pelo **Wireshark** no Windows. Ele permite que o programa “escute” o tráfego de rede em tempo real.
+
+**Função principal:**
+
+* Captura pacotes de rede (Ethernet, Wi-Fi e localhost);
+* Substitui o antigo **WinPcap**, sendo mais rápido e compatível com Windows 10/11;
+* Cria o **Npcap Loopback Adapter**, que permite capturar tráfego local (`localhost`).
+
+**Uso prático:**
+Durante a demonstração, o Npcap foi essencial para que o Wireshark capturasse os pacotes do formulário HTTP e mostrasse os dados interceptados.
+
+**Dica de instalação:**
+Marque a opção **“Install Npcap Loopback Adapter”** e **“WinPcap API-compatible mode”** para compatibilidade total com Wireshark.
+
+**Site oficial:**
+[https://npcap.org/](https://npcap.org/)
+
+---
+
+Quer que eu adicione esse resumo junto ao README do Wireshark e Lightshot e gere o novo arquivo `.docx` atualizado?
