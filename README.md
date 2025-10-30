@@ -65,5 +65,3 @@ No seminário, foi usado para capturar os prints das etapas práticas do MITM.
 | **Lightshot** | Captura de tela       | Registrar prints e evidências visuais         |
 
 ---
-
-Quer que eu adicione esse resumo formatado no **final do documento do seminário** (como anexo técnico “Ferramentas Utilizadas”)? Posso gerar o `.docx` atualizado agora.
