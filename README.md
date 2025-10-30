@@ -88,5 +88,3 @@ Marque a opção **“Install Npcap Loopback Adapter”** e **“WinPcap API-com
 [https://npcap.org/](https://npcap.org/)
 
 ---
-
-Quer que eu adicione esse resumo junto ao README do Wireshark e Lightshot e gere o novo arquivo `.docx` atualizado?
